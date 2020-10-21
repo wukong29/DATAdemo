@@ -10,8 +10,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Go File" />
         <option value="HTML File" />
+        <option value="Go File" />
       </list>
     </option>
   </component>
@@ -29,9 +29,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DataProject" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DataCertProject" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\22894\go\src\BeegoDemo\static\img" />
+      <recent name="C:\Users\22894\go\src\BeegoDemo\static\css" />
+      <recent name="C:\Users\22894\go\src\BeegoDemo\static\js" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go">
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="BeegoDemo" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -39,9 +46,19 @@
       <filePath value="$PROJECT_DIR$/main.go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build uploadFileController.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="BeegoDemo" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/controllers/uploadFileController.go" />
+      <package value="BeegoDemo" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build uploadFileController.go" />
       </list>
     </recent_temporary>
   </component>
@@ -49,25 +66,49 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1018" y="306" key="FileChooserDialogImpl" timestamp="1602511243669">
+    <state x="1141" y="262" key="#go_build_uploadFileController.go" timestamp="1603011165096">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1018" y="306" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602511243669" />
-    <state width="1270" height="206" key="GridCell.Tab.0.bottom" timestamp="1602511202943">
+    <state x="1141" y="262" key="#go_build_uploadFileController.go/0.0.1920.1040@0.0.1920.1040" timestamp="1603011165096" />
+    <state x="1018" y="306" key="FileChooserDialogImpl" timestamp="1603279868348">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1270" height="206" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602511202943" />
-    <state width="1270" height="206" key="GridCell.Tab.0.center" timestamp="1602511202943">
+    <state x="1018" y="306" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603279868348" />
+    <state width="1276" height="166" key="GridCell.Tab.0.bottom" timestamp="1603280320287">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1270" height="206" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602511202943" />
-    <state width="1270" height="206" key="GridCell.Tab.0.left" timestamp="1602511202943">
+    <state width="1276" height="166" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603280320287" />
+    <state width="1276" height="166" key="GridCell.Tab.0.center" timestamp="1603280320286">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1270" height="206" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602511202943" />
-    <state width="1270" height="206" key="GridCell.Tab.0.right" timestamp="1602511202943">
+    <state width="1276" height="166" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603280320286" />
+    <state width="1276" height="166" key="GridCell.Tab.0.left" timestamp="1603280320286">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1270" height="206" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602511202943" />
+    <state width="1276" height="166" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603280320286" />
+    <state width="1276" height="166" key="GridCell.Tab.0.right" timestamp="1603280320287">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1276" height="166" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603280320287" />
+    <state x="991" y="498" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1603161975961">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="991" y="498" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603161975961" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/blockchain/pow.go</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main.go</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
